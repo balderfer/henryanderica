@@ -117,7 +117,7 @@ h1 {
   -webkit-filter: grayscale(20%);
   filter: grayscale(80%);
   /*opacity: 0.5;*/
-  background-image: url('./assets/images/henryandericawalking.png');
+  background-image: url('./assets/images/henryandericawalking.jpg');
   background-position: center;
   background-size: cover;
 }
